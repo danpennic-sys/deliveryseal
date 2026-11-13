@@ -1,0 +1,32 @@
+{
+  "type": "delivery_receipt",
+  "job_id": "JOB-2026-042",
+  "site": "Site Alpha — Springfield, MO",
+  "po_number": "PO-2026-1187",
+  "ticket": "DEL-88421",
+  "supplier": "Midwest Materials Co.",
+  "received_at": "2026-11-13T09:45:00Z",
+  "receiver": "Operator A",
+  "items": [
+    {
+      "sku": "CONDUIT-2IN",
+      "description": "2\" EMT Conduit",
+      "qty_ordered": 50,
+      "qty_received": 48,
+      "unit": "sticks",
+      "condition": "2 sticks damaged ends — noted on ticket"
+    },
+    {
+      "sku": "COUPLING-2IN",
+      "description": "2\" EMT Couplings",
+      "qty_ordered": 50,
+      "qty_received": 50,
+      "unit": "ea",
+      "condition": "Good"
+    }
+  ],
+  "notes": "Driver waited 10 min. Partial short on conduit noted. Photo of damage taken.",
+  "media_hashes": ["a1b2c3d4e5f6789012345678901234567890abcdef1234567890abcdef123456"],
+  "sealed_at": "2026-11-13T10:00:00Z",
+  "tool": "DeliverySeal/0.1.0"
+}
