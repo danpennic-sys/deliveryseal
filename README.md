@@ -38,7 +38,8 @@ Expected: **PASS**.
 | Command   | $169  | + batch mode + CSV/HTML export + reseller rights |
 | Agency    | $449  | + white-label + multi-site key management |
 
-**Buy Operator Pack:** Contact danpennic@gmail.com or use Stripe checkout for live link.  
+**Buy Operator Pack (test mode):** https://buy.stripe.com/test_aFa3cu9517h655egpaew807  
+Contact danpennic@gmail.com for production / other SKUs.  
 Repo: https://github.com/danpennic-sys/deliveryseal
 
 Source free under Apache-2.0 OR MIT. Commercial packs sold separately.
